@@ -1,0 +1,4 @@
+rootProject.name = 'MicroServicesTestApplication'
+
+includeBuild 'eureka-server'
+
